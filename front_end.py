@@ -65,6 +65,7 @@ def fetch_article(url):
 data_load_state = st.text('Loading data...')
 data, log_model, label = load_data()
 data_load_state.text("Done! (using st.cache)")
+st.write('App not optimized for use with mobile or in dark mode')
 
 st.subheader('What Is This?')
 st.markdown(

@@ -3,7 +3,6 @@ lime==0.2.0.1
 matplotlib==3.5.1
 newspaper3k==0.2.8
 nltk==3.7
-numpy==1.22.3
 pandas==1.4.1
 pickle-mixin==1.0.2
 regex==2022.3.2

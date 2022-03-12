@@ -8,6 +8,7 @@ import pickle
 import joblib
 from sklearn.preprocessing import LabelEncoder
 import sklearn
+import scipy
 from lime.lime_text import LimeTextExplainer
 from article_collector import ArticleContentCollector
 import matplotlib.pyplot as plt

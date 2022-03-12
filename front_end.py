@@ -14,7 +14,7 @@ from article_collector import ArticleContentCollector
 import matplotlib.pyplot as plt
 plt.style.use('seaborn')
 
-st.set_page_config(layout=‘wide’)
+st.set_page_config(layout='wide')
 
 st.title('Fake News Model')
 

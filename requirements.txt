@@ -7,5 +7,6 @@ pandas
 pickle-mixin
 regex
 requests
+scipy
 sklearn
 streamlit

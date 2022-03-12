@@ -7,6 +7,6 @@ pandas
 pickle-mixin
 regex
 requests
-scipy
+scipy==1.8.0
 sklearn
 streamlit

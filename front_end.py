@@ -71,7 +71,7 @@ st.subheader('What Is This?')
 st.markdown(
     'This is a live version of a fake news classification model that attempts to identify fake news by article content \n.'
     'For more information on its construction go to https://github.com/nonlocal-lia/fake_news_detector. \n'
-    'Below you can select an article by index or title and see the models predictions \n'
+    'Below you can select an article by index or title, or copy paste a url of an article not in the data and see the models predictions \n'
     'as well as examine what features of the text the model was using in arriving at its predictions with the help of lime. \n'
     'Fake news as defined in the data does not mean all the claims within are false, nor does real news mean the claims are true. \n'
     'Fake news in the data tended to be inflammatory or clickbaiting stories with poor sourcing or pure opinion, and real news was typically news from mainstream outlets. \n'

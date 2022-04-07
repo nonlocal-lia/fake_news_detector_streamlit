@@ -69,7 +69,7 @@ st.write('App not optimized for use with mobile or in dark mode')
 
 st.subheader('What Is This?')
 st.markdown(
-    'This is a live version of a fake news classification model that attempts to identify fake news by article content. \n.'
+    'This is a live version of a fake news classification model that attempts to identify fake news by article content. \n'
     'For more information on its construction go to https://github.com/nonlocal-lia/fake_news_detector. \n'
     'Below you can select an article by index or title, or copy paste a url of an article not in the data and see the models predictions \n'
     'as well as examine what features of the text the model was using in arriving at its predictions with the help of lime. \n'
